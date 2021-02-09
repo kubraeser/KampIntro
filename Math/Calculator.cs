@@ -9,7 +9,7 @@ namespace Math
         public void Add(int n1 , int n2)
         {
             int total = n1 + n2;
-            Console.WriteLine(total);
+            Console.WriteLine("toplamları : " + total + "dır.");
 
         }
 

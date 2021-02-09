@@ -8,7 +8,7 @@ namespace Math
         {
 
             Calculator calculator = new Calculator();
-            calculator.Add(19 , 13);
+            calculator.Add(789 , 152);
             calculator.Substraction(19 , 13);
         }
     }
